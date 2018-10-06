@@ -1,0 +1,8 @@
+L:\新建文件夹 (2)\C#Project\BlackAeroGlass\BlackAeroGlass\bin\Release\BlackAeroGlass.exe
+L:\新建文件夹 (2)\C#Project\BlackAeroGlass\BlackAeroGlass\bin\Release\BlackAeroGlass.pdb
+L:\新建文件夹 (2)\C#Project\BlackAeroGlass\BlackAeroGlass\obj\Release\WindowsFormsApp1.Form1.resources
+L:\新建文件夹 (2)\C#Project\BlackAeroGlass\BlackAeroGlass\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+L:\新建文件夹 (2)\C#Project\BlackAeroGlass\BlackAeroGlass\obj\Release\BlackAeroGlass.csproj.GenerateResource.cache
+L:\新建文件夹 (2)\C#Project\BlackAeroGlass\BlackAeroGlass\obj\Release\BlackAeroGlass.csproj.CoreCompileInputs.cache
+L:\新建文件夹 (2)\C#Project\BlackAeroGlass\BlackAeroGlass\obj\Release\BlackAeroGlass.exe
+L:\新建文件夹 (2)\C#Project\BlackAeroGlass\BlackAeroGlass\obj\Release\BlackAeroGlass.pdb
